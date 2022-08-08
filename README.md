@@ -1,7 +1,7 @@
 # AICTE-CLOUD-VIRTUAL-INTERNSHIP
-![image](https://user-images.githubusercontent.com/89300898/183380303-146e008d-c37f-44e2-b2b0-d0107f7847f9.png)
-This is my in-depth experience about how i completed my AICTE cloud virtual internship successfully in time and the knowledge i gained through out internship period.
+![image](https://user-images.githubusercontent.com/89300898/183380303-146e008d-c37f-44e2-b2b0-d0107f7847f9.png)//
 
+This is my in-depth experience about how i completed my AICTE cloud virtual internship successfully in time and the knowledge i gained through out internship period.
 The program is divided into the following six learning modules:
 1.	Student Guides: You can study all the related information related to each service offered by AWS in details in addition to the underlying use and purpose of that service in Cloud World. You can look at the screenshots and visual representations of functionalities and basic features of each cloud service offered by Amazon web Services.
 2.	Section Videos: You can watch and learn through the videos by AWS experts and get the idea of Cloud computing services and benefits in a shorter period of time.
